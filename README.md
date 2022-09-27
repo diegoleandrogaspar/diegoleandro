@@ -4,9 +4,9 @@
 
  ◾ Sou Desenvolvedor Back-end
 
- ◾ Atualmente tenho feito Projetos utilizando Java & Spring
+ ◾  Os meus estudos atuais estão concentrados em desenvolvimento back-end com Java, NodeJS, Spring, Nuvem AWS e Docker
 
- ◾ Estou iniciando meus estudos com docker containers
+ 
 
 <div align="center">
   <a href="https://github.com/diegoleandrogaspar">
