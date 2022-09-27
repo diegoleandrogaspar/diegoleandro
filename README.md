@@ -9,9 +9,9 @@
  ◾ Estou iniciando meus estudos com docker containers
 
 <div align="center">
-  <a href="https://github.com/Diego-1998">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diego-1998&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diego-1998&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://github.com/diegoleandrogaspar">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diegoleandrogaspar&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegoleandrogaspar&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
   <div style="display: inline_block"><br>
@@ -29,7 +29,7 @@
 
   Meus contatos 🔽🔽 
 
-  <a href="https://www.linkedin.com/in/diego-leandro-s/a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/diegoleandrogaspar/a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:diegolgaspar000@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
     
  <a href = "https://twitter.com/Diegol_dev"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
